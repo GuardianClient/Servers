@@ -1,10 +1,10 @@
 // config/database.js
 module.exports = {
     connection: {
-        host: 'fdb18.awardspace.net',
+        host: 'remotemysql.com',
         port: '3306',
-        user: '3831158_daigen',
-        password: 'daigen2008',
+        user: 'XDK2UtkId3',
+        password: 'vtcPsGSzNp',
     },
-    database: '3831158_daigen'
+    database: 'XDK2UtkId3'
 };
